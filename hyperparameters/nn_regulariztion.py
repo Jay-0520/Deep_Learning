@@ -6,7 +6,6 @@ from reg_utils import compute_cost, predict, forward_propagation, backward_propa
 import sklearn
 import sklearn.datasets
 import scipy.io
-from testCases import *
 
 %matplotlib inline
 plt.rcParams['figure.figsize'] = (7.0, 4.0) # set default size of plots
