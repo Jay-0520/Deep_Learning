@@ -1,0 +1,12 @@
+
+
+2. Why do we learn a function d(img1, img2)d(img1,img2) for face verification? (Select all that apply.)
+
+
+7. Neural style transfer is trained as a supervised learning task in which the goal is to input two images (xx), and train a network to output a new, synthesized image (yy).
+
+  - False 
+
+9.
+
+10.

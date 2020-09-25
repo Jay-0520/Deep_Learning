@@ -1,0 +1,31 @@
+
+========== WEEK ONE ============
+
+
+=== Edge detection example ===
+
+python: conv_forward
+tensorflow: tf.nn.conv2d
+
+
+Max pooling and average pooling (no parameters to learn)
+
+
+
+========== WEEK TWO ============
+
+<Transfer Learning>
+
+** few data **
+1. download the open-source NN
+2. delete the softmax layer and add your own softmax layer; freeze parameters in the previous layers. 
+
+** some data **
+1. freeze first few layers  
+
+** lots of data **
+1. train the full downloaded NN
+
+
+
+
