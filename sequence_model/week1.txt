@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+===== BRNN =====
+
+can be combined with LSTM or GRU
+
+BRNN + LSTM is mostly frequently used
+
+
+
+====== Deep RNNs =====
+
+computationally-costly, so only 2 or 3 deep layers
+
+
